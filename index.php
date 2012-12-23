@@ -12,20 +12,6 @@
     License: GPL2
 */
 
-
-
-// create menu page in Tools Menu
-
-// create form to upload zip file
-
-// on post, upload file to temp
-
-// extract contents into /uploads
-
-// remove temp file
-
-
-
 function ss_zip_unloader_menu() {
     add_management_page (
         __('SS Zip Unloader'),
