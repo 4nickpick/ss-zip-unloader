@@ -27,7 +27,7 @@
                     endif;
 
                 endwhile;
-            }
+            }   
             
             $movefile = wp_handle_upload( $uploadedfile, $upload_overrides );
             if ( isset($movefile['url']) ) {
