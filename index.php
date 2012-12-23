@@ -5,9 +5,14 @@
     Plugin Name: SS Zip Unloader
     Author Name: Nicholas Pickering
     Author Email: 2nickpick@gmail.com
-    Plugin URI: http://soundshrew.com/plugins/ss_zip_unloader
-    Plugin Version: 1.0
+    Author URI: http://soundshrew.com/
+    Plugin URI: http://soundshrew.com/plugins/ss-zip-unloader
+    Description: Upload and extract zips to wp-content/uploads
+    Version: 1.0
+    License: GPL2
 */
+
+
 
 // create menu page in Tools Menu
 
